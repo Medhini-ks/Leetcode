@@ -14,5 +14,10 @@
 ## Array
 |  |
 | ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Medhini-ks/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Medhini-ks/Leetcode/tree/master/2727-number-of-senior-citizens) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Medhini-ks/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->

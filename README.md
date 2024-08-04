@@ -6,11 +6,13 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Medhini-ks/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/Medhini-ks/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Array
 |  |

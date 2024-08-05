@@ -7,19 +7,19 @@ class Solution {
             map.put(a[i],map.getOrDefault(a[i],0 )+1);
         }
 
-        ArrayList<String> list=new ArrayList<>();
+       int count=1;
         for(Map.Entry<String,Integer> entry:map.entrySet())
         {
             if(entry.getValue()==1)
             {
-                list.add(entry.getKey());
+                if(k==count)
+                {
+                    return entry.getKey();
+                    
+                }
+                count++;
             }
         }
-        if(list.isEmpty() || k>list.size())
-        {
         return "";
-        }
-
-        return list.get(k-1);
     }
 }

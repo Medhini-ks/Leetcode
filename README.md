@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Medhini-ks/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Medhini-ks/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Medhini-ks/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -23,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Medhini-ks/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Medhini-ks/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Medhini-ks/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0921-spiral-matrix-iii](https://github.com/Medhini-ks/Leetcode/tree/master/0921-spiral-matrix-iii) |

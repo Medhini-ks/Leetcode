@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Medhini-ks/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Medhini-ks/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0921-spiral-matrix-iii](https://github.com/Medhini-ks/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Medhini-ks/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -65,6 +66,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Medhini-ks/Leetcode/tree/master/0605-can-place-flowers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Medhini-ks/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |

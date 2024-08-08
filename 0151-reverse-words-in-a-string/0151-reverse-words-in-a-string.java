@@ -1,11 +1,11 @@
 class Solution {
     public String reverseWords(String s) {
         String str[]=s.split("\\s+");
-        String res="";
-        for(int i=str.length-1;i>=0;i--)
-        {
-                res+=str[i]+" ";     
+       StringBuilder sb = new StringBuilder();
+        for(int i = str.length -1; i >=0; i--){
+            String word = str[i].trim();;
+            sb.append(word).append(" ");
         }
-        return res.trim();
+        return sb.toString().trim();
     }
 }

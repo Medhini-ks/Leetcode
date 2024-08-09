@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/Medhini-ks/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Medhini-ks/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Medhini-ks/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0870-magic-squares-in-grid](https://github.com/Medhini-ks/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Medhini-ks/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Medhini-ks/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Medhini-ks/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -42,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Medhini-ks/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Medhini-ks/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Medhini-ks/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Medhini-ks/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Medhini-ks/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/Medhini-ks/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Medhini-ks/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -82,6 +85,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Medhini-ks/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Medhini-ks/Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |

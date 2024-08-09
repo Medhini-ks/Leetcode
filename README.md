@@ -32,6 +32,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Medhini-ks/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Medhini-ks/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Medhini-ks/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1833-find-the-highest-altitude](https://github.com/Medhini-ks/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Medhini-ks/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Medhini-ks/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Medhini-ks/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Medhini-ks/Leetcode/tree/master/0921-spiral-matrix-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Medhini-ks/Leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->

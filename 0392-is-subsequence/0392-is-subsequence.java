@@ -8,7 +8,7 @@ class Solution {
         int j=0;
       for(int i=0;i<t.length();i++)
       {
-        if(s.charAt(j)==t.charAt(i) && j<s.length())
+        if(s.charAt(j)==t.charAt(i) )
         {
             j++;
             if(j==s.length())

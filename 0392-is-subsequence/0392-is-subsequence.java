@@ -10,11 +10,12 @@ class Solution {
       {
         if(s.charAt(j)==t.charAt(i) )
         {
-            j++;
-            if(j==s.length())
+            
+            if(j==s.length()-1)
             {
                 return true;
             }
+            j++;
         }
       } 
       return false; 

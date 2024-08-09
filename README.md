@@ -8,6 +8,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Medhini-ks/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Medhini-ks/Leetcode/tree/master/0392-is-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Medhini-ks/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Medhini-ks/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -16,6 +17,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/Medhini-ks/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Medhini-ks/Leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Medhini-ks/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Medhini-ks/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Medhini-ks/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Medhini-ks/Leetcode/tree/master/1833-find-the-highest-altitude) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Medhini-ks/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

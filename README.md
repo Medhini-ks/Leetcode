@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/Medhini-ks/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Medhini-ks/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Medhini-ks/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Medhini-ks/Leetcode/tree/master/0724-find-pivot-index) |
 | [0870-magic-squares-in-grid](https://github.com/Medhini-ks/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Medhini-ks/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Medhini-ks/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -97,6 +98,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Medhini-ks/Leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Medhini-ks/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |

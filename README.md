@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Medhini-ks/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Medhini-ks/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Medhini-ks/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Medhini-ks/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -52,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Medhini-ks/Leetcode/tree/master/0229-majority-element-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Medhini-ks/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Medhini-ks/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Medhini-ks/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -61,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Medhini-ks/Leetcode/tree/master/0229-majority-element-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Medhini-ks/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Medhini-ks/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Medhini-ks/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -77,6 +80,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Medhini-ks/Leetcode/tree/master/0229-majority-element-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Medhini-ks/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Medhini-ks/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy

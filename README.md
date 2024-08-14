@@ -5,6 +5,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Medhini-ks/Leetcode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Medhini-ks/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Medhini-ks/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -27,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Medhini-ks/Leetcode/tree/master/0011-container-with-most-water) |
 | [0229-majority-element-ii](https://github.com/Medhini-ks/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Medhini-ks/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Medhini-ks/Leetcode/tree/master/0283-move-zeroes) |
@@ -86,6 +88,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Medhini-ks/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Medhini-ks/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Medhini-ks/Leetcode/tree/master/0605-can-place-flowers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Medhini-ks/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |

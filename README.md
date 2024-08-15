@@ -73,6 +73,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Medhini-ks/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Medhini-ks/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Database
 |  |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Medhini-ks/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Medhini-ks/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

@@ -96,6 +96,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Medhini-ks/Leetcode/tree/master/0009-palindrome-number) |
 | [0273-integer-to-english-words](https://github.com/Medhini-ks/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Medhini-ks/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Medhini-ks/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
